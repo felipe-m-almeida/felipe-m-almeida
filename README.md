@@ -1,6 +1,6 @@
 ## Hi, I'm Felipe Morgado de Almeida
 
-### 📖 I'm currently studying SAP ABAP and a bit of JAVA due to a subject of college.
+### 📖 I'm currently working SAP ABAP.
 ### 👨‍🎓 I finished ABAP academy course of Ka Solution, the official academy of SAP ABAP, with a workload of 125 hours.
 ### ⚙ I will use this account as a place to store my projects and watch my progress.
 
