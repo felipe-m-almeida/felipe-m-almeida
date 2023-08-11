@@ -4,12 +4,6 @@
 ### 👨‍🎓 I finished ABAP academy course of Ka Solution, the official academy of SAP ABAP, with a workload of 125 hours.
 ### ⚙ I will use this account as a place to store my projects and watch my progress.
 
-<div align="center">
-  <a href="https://github.com/felipe-m-almeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-m-almeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-m-almeida&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
   ##
   
   <div> 
